@@ -1,2 +1,2 @@
 # SSE-CortexEmbed
-Code for paper "Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns"
+Code for ISBI 2024 paper "Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns"
