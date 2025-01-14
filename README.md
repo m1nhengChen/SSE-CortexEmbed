@@ -10,7 +10,7 @@ This cortical folding pattern exhibits strong consistency within species while v
 And a recent study revealed that a finer-scale brain connectome based on 3HG can better capture the intricate patterns of Alzheimer's Disease.
 ### Contributions of this work
 <img src="/img/fig1.png" width="500px"/>
-In this paper, we propose a self-supervised framework for anatomical feature embedding of the 3HG based on our initial study, [Cortex2vector](https://academic.oup.com/cercor/article/33/10/5851/6880883).
+In this paper, we propose a self-supervised framework for anatomical feature embedding of the 3HG based on our initial study, [cortex2vector](https://academic.oup.com/cercor/article/33/10/5851/6880883).
 We introduce structural similarity between independent nodes to enhance the hierarchical multi-hop encoding strategy.
 To further improve the representation ability of the network  while keeping it lightweight, we adopt Kolmogorov–Arnold Networks (KAN), a recently proposed neural network inspired by the Kolmogorov-Arnold representation theorem, for anatomical feature encoding of 3HGs. In addition, we propose a new loss function -- selective reconstruction loss, which penalizes reconstruction errors in non-zero elements, thereby enhancing the representational capacity of the embedding vector.
 Our experimental results show that the learned embeddings can accurately establish cross-subject correspondences in complex cortical landscapes, while also maintaining the commonality and variability inherent in 3HGs.
