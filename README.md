@@ -18,10 +18,12 @@ Our experimental results show that the learned embeddings can accurately establi
 ## Citation
 If you use this code for your research, please cite our paper:
 ```
-@article{chen2024using,
-  title={Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of 3-hinge Gyrus},
+@inproceedings{chen2025using,
+  title={Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns},
   author={Chen, Minheng and Cao, Chao and Chen, Tong and Zhuang, Yan and Zhang, Jing and Lyu, Yanjun and Yu, Xiaowei and Zhang, Lu and Liu, Tianming and Zhu, Dajiang},
-  journal={arXiv preprint arXiv:2410.23598},
-  year={2024}
+  booktitle={2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--5},
+  year={2025},
+  organization={IEEE}
 }
 ```
